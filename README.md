@@ -74,7 +74,7 @@
 
 <p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
-<p align="center" >💪 9+ Years of Development Experience💪<br><br>
+<p align="center" >💪 10+ Years of Development Experience💪<br><br>
 ⚡️ Expertise in Building Modern, Scalable Applications⚡️<br><br>
 🏆 Strong Focus on Usability &amp; Performance 🏆 <br><br>
 🌍 Responsive Designs for All Devices 🌍<br><br>
